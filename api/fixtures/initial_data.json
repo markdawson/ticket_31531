@@ -1,14 +1,14 @@
 [
   {
     "model": "api.Test",
-    "pk": "58972feb-b330-48be-863a-2bda09d066cd",
+    "pk": "724ea599-10a2-49a1-be2f-c1fcb04d003e",
     "fields": {
       "name": "Test 1"
     }
   },
   {
     "model": "api.Test",
-    "pk": "d95847d5-2543-40c1-8b3f-ad2ae80ad7f3",
+    "pk": "6bcb72f0-099b-416d-8b2c-fcd0bef76cbf",
     "fields": {
       "name": "Test 2"
     }
