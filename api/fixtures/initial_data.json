@@ -1,0 +1,16 @@
+[
+  {
+    "model": "api.Test",
+    "pk": "58972feb-b330-48be-863a-2bda09d066cd",
+    "fields": {
+      "name": "Test 1"
+    }
+  },
+  {
+    "model": "api.Test",
+    "pk": "d95847d5-2543-40c1-8b3f-ad2ae80ad7f3",
+    "fields": {
+      "name": "Test 2"
+    }
+  }
+]
